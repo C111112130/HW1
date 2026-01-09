@@ -63,3 +63,6 @@
 <img width="1165" height="561" alt="image" src="https://github.com/user-attachments/assets/43f30c7b-5674-42be-acb1-67a388ebef67" />
 <img width="1183" height="562" alt="image" src="https://github.com/user-attachments/assets/b5be965e-6912-40dd-bcc3-b2f41d16def1" />
 <img width="1066" height="627" alt="image" src="https://github.com/user-attachments/assets/c9c88708-1538-42e2-ace9-8d5c1dcd51b8" />
+
+分工:C111112130 林廉閎 乒乓球
+    C111112155 謝宗佑 接水果
